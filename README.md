@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritisha Arora</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-•⁠  ⁠🔭 I’m currently working on **
+•⁠  ⁠🔭 I’m currently working on
   
 •⁠  ⁠👀 I’m currently doing *BTECH in Computer Science from VIT Chennai*
   

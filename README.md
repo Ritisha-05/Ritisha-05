@@ -1,45 +1,74 @@
-<h1 align="center">Hi 👋, I'm Ritisha Arora</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h1 align="left">Ritisha Arora</h1>
+<h3 align="left">AI Engineer & GenAI Solutions Architect</h3>
 
-•⁠  ⁠🔭 I’m currently working on
-  
-•⁠  ⁠👀 I’m currently doing *BTECH in Computer Science from VIT Chennai*
-  
-•⁠  ⁠🌱 I’m currently learning *RPA and Azure*
+<p align="left">
+  <a href="https://www.linkedin.com/in/ritisha-arora" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ritisha05@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-•⁠  ⁠👯 I’m looking to collaborate on *Fullstack Projects*
+> **Transforming experimental AI into deterministic, production-ready enterprise systems.**
 
-•⁠  ⁠💬 Ask me about *JavaScript,React,Node.js,AWS, and any general software development questions.*
+I am a **Dual-Certified AWS & Azure AI Engineer** specializing in enterprise-grade LLM architectures. I do not just write API wrappers; I architect, deploy, and scale autonomous multi-agent workflows, ultra-low latency Voice AI, and high-accuracy Retrieval-Augmented Generation (RAG) pipelines for B2B environments.
 
-•⁠  ⁠📫 How to reach me *ritisha05@gmail.com*
+### ⚡ Current Engineering Focus
+- 🏗️ **Founding AI Engineer at ZyKoon Technologies:** Architecting **IntelliCrew**, a PaaS delivering deterministic, multi-agent business workflows with integrated Human-in-the-Loop (HITL) approval gates.
+- 🗣️ **Ultra-Low Latency Voice AI:** Building real-time conversational agents (200-300ms latency) integrating LiveKit, Cartesia TTS, and OpenAI GPT-4/5 for dynamic CRM tool-calling.
+- 🧠 **Enterprise RAG & Memory:** Engineering hybrid-retrieval systems (dense + sparse), query expansion, and cross-session agent memory to entirely eliminate LLM hallucinations.
 
-•⁠  ⁠📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1ZQ99_T0w4MqJJFXkyKr6ywb4-8Ilokei/view?usp=sharing)
+---
 
-•⁠  ⁠⚡ Fun fact *I love learning new things.*
+### 🛠️ Core Architecture & Tech Stack
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritisha-arora) 
+**Multi-Agent Orchestration, Voice & AI Models**
+<p align="left">
+  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/AutoGen-00599C?style=for-the-badge&logo=microsoft&logoColor=white" alt="AutoGen" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Claude_Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Bedrock" />
+  <img src="https://img.shields.io/badge/Amazon_SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="SageMaker" />
+  <img src="https://img.shields.io/badge/LiveKit-1A1C29?style=for-the-badge&logo=webrtc&logoColor=white" alt="LiveKit" />
+  <img src="https://img.shields.io/badge/Cartesia-000000?style=for-the-badge&logo=audio-spectrum&logoColor=white" alt="Cartesia" />
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**Vector Infrastructure & State Management**
+<p align="left">
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=chroma&logoColor=white" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
+  <img src="https://img.shields.io/badge/Azure_CosmosDB-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="CosmosDB" />
+  <img src="https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="DynamoDB" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+</p>
 
+**Backend, APIs & Cloud**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Quart-E62625?style=for-the-badge&logo=python&logoColor=white" alt="Quart" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+</p>
 
-### ✍️ Quote of the day
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+---
 
+### 🏆 Certifications
+* **[AWS Certified Generative AI Developer - Professional (Early Adopter)](INSERT_YOUR_CREDLY_URL_HERE)**
+* **[AWS Certified Machine Learning Engineer - Associate](INSERT_YOUR_CREDLY_URL_HERE)**
+* **[Microsoft Certified: Azure AI Engineer Associate](INSERT_YOUR_CREDLY_URL_HERE)**
 
+<br>
 
-<!--
-**Ritisha-05/Ritisha-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/Ritisha-05">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ritisha-05&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=3776AB&text_color=ffffff" alt="GitHub Stats" width="45%" />
+  </a>
+  <a href="https://github.com/Ritisha-05">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritisha-05&layout=compact&theme=transparent&hide_border=true&title_color=3776AB&text_color=ffffff" alt="Top Languages" width="45%" />
+  </a>
+</p>
